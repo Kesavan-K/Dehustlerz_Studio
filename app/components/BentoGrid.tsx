@@ -13,7 +13,7 @@ const BentoGrid = () => {
           <p className="md:text-2xl text-md font-light  text-gray-700 text-center my-2">
           Top Collections from Our Studio
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-4 my-10 md:px-40">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-4 my-10 lg:px-40 md:px-20 px-5">
             <div className="md:col-span-2 md:row-span-2 relative overflow-hidden rounded shadow group hover:cursor-pointer">
               <Image
                 src="/Gallery_7.jpg"
